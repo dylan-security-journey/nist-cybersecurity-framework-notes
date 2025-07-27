@@ -6,7 +6,7 @@ Timely discovery and analysis of anomalies, support successful incident response
 
 Continuous Monitoring (DE.CM): all assets monitored to find anomalies
 
-Adverse Event Analysis (DE.AE): potentially adverse events analyzed
+Adverse Event Analysis (DE.AE): potentially adverse events analyzed thoroughly
 
 ## Detect Function Subcategories
 
